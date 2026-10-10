@@ -1,0 +1,7 @@
+.vscode/
+.DS_Store
+.env
+.env.*
+!.env.example
+phpext/
+public/phpext/
